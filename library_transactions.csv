@@ -1,0 +1,101 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+1,2020-01-03,U101,Rich Dad Poor Dad,Finance,8
+2,2020-01-19,U119,Deep Learning,Technology,15
+3,2020-02-14,U101,Rich Dad Poor Dad,Finance,7
+4,2020-03-02,U120,Python Basics,Education,13
+5,2020-03-03,U102,History of India,History,6
+6,2020-03-10,U109,Data Science,Technology,10
+7,2020-05-01,U111,Clean Code,Technology,11
+8,2020-05-03,U103,Machine Learning,Technology,11
+9,2020-05-26,U108,Data Science,Technology,10
+10,2020-06-20,U112,Atomic Habits,Self Help,9
+11,2020-08-02,U119,Machine Learning,Technology,14
+12,2020-08-31,U105,Deep Learning,Technology,16
+13,2020-09-02,U105,Python Basics,Education,10
+14,2020-09-15,U120,Rich Dad Poor Dad,Finance,7
+15,2020-09-30,U106,Clean Code,Technology,13
+16,2020-10-14,U113,Data Science,Technology,13
+17,2020-10-26,U114,Atomic Habits,Self Help,7
+18,2020-12-06,U102,Python Basics,Education,12
+19,2020-12-14,U108,Rich Dad Poor Dad,Finance,11
+20,2020-12-22,U109,Atomic Habits,Self Help,8
+21,2021-01-06,U120,Deep Learning,Technology,16
+22,2021-01-20,U106,Data Science,Technology,15
+23,2021-02-17,U105,Rich Dad Poor Dad,Finance,7
+24,2021-03-17,U120,Machine Learning,Technology,15
+25,2021-03-18,U107,Python Basics,Education,9
+26,2021-04-22,U103,Clean Code,Technology,11
+27,2021-04-28,U108,Machine Learning,Technology,11
+28,2021-06-20,U110,Python Basics,Education,10
+29,2021-07-05,U105,History of India,History,5
+30,2021-08-03,U115,Machine Learning,Technology,13
+31,2021-10-07,U117,Atomic Habits,Self Help,9
+32,2021-12-28,U119,Rich Dad Poor Dad,Finance,6
+33,2022-01-26,U116,Rich Dad Poor Dad,Finance,8
+34,2022-02-01,U102,Atomic Habits,Self Help,7
+35,2022-02-10,U103,Atomic Habits,Self Help,8
+36,2022-02-16,U110,Python Basics,Education,10
+37,2022-02-18,U103,Python Basics,Education,8
+38,2022-02-20,U112,Machine Learning,Technology,16
+39,2022-03-11,U105,Python Basics,Education,10
+40,2022-03-24,U116,Data Science,Technology,10
+41,2022-05-09,U114,Deep Learning,Technology,13
+42,2022-05-24,U119,Deep Learning,Technology,13
+43,2022-07-29,U113,Atomic Habits,Self Help,8
+44,2022-08-15,U120,Atomic Habits,Self Help,7
+45,2022-09-17,U104,Python Basics,Education,10
+46,2022-10-06,U111,Deep Learning,Technology,16
+47,2022-11-06,U119,Rich Dad Poor Dad,Finance,9
+48,2023-01-10,U118,Machine Learning,Technology,11
+49,2023-02-13,U117,History of India,History,5
+50,2023-03-29,U103,Data Science,Technology,13
+51,2023-04-06,U104,Python Basics,Education,11
+52,2023-04-19,U116,Clean Code,Technology,11
+53,2023-05-27,U112,Deep Learning,Technology,15
+54,2023-06-28,U120,Python Basics,Education,9
+55,2023-07-15,U111,History of India,History,8
+56,2023-08-29,U108,History of India,History,7
+57,2023-09-24,U109,Machine Learning,Technology,12
+58,2023-10-11,U107,Atomic Habits,Self Help,7
+59,2024-03-17,U119,Machine Learning,Technology,13
+60,2024-04-20,U105,Data Science,Technology,13
+61,2024-05-02,U102,Data Science,Technology,15
+62,2024-06-05,U109,Python Basics,Education,9
+63,2024-06-10,U116,Python Basics,Education,10
+64,2024-06-15,U114,Rich Dad Poor Dad,Finance,9
+65,2024-06-28,U116,Atomic Habits,Self Help,9
+66,2024-07-24,U120,Data Science,Technology,13
+67,2024-08-06,U102,Data Science,Technology,12
+68,2024-09-13,U102,Deep Learning,Technology,15
+69,2024-09-15,U110,History of India,History,5
+70,2024-09-19,U113,Atomic Habits,Self Help,8
+71,2024-12-09,U109,Python Basics,Education,9
+72,2025-01-03,U102,Clean Code,Technology,9
+73,2025-01-06,U118,Machine Learning,Technology,16
+74,2025-01-24,U112,Atomic Habits,Self Help,7
+75,2025-01-26,U107,Atomic Habits,Self Help,8
+76,2025-01-29,U101,Data Science,Technology,16
+77,2025-02-16,U102,Machine Learning,Technology,12
+78,2025-03-15,U112,Data Science,Technology,14
+79,2025-03-19,U117,Atomic Habits,Self Help,9
+80,2025-03-22,U106,Atomic Habits,Self Help,8
+81,2025-04-09,U108,Deep Learning,Technology,13
+82,2025-05-02,U113,Machine Learning,Technology,12
+83,2025-06-17,U107,Machine Learning,Technology,16
+84,2025-08-09,U101,Deep Learning,Technology,16
+85,2025-09-11,U117,History of India,History,7
+86,2025-09-15,U107,Machine Learning,Technology,11
+87,2025-09-27,U104,Clean Code,Technology,10
+88,2025-10-01,U113,Data Science,Technology,10
+89,2025-10-27,U118,Rich Dad Poor Dad,Finance,8
+90,2025-12-04,U101,Data Science,Technology,12
+91,2026-01-15,U102,History of India,History,8
+92,2026-03-07,U114,Data Science,Technology,16
+93,2026-04-09,U101,Data Science,Technology,11
+94,2026-04-11,U103,Deep Learning,Technology,16
+95,2026-04-25,U106,Clean Code,Technology,13
+96,2026-05-08,U105,Data Science,Technology,13
+97,2026-08-02,U117,Python Basics,Education,13
+98,2026-08-17,U115,History of India,History,8
+99,2026-09-04,U103,History of India,History,6
+100,2026-09-22,U118,Machine Learning,Technology,13
